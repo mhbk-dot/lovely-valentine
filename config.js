@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['💞', '💘​', '💝', '❤️‍🔥', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['💞', '💘​', '❤️‍🔥'],  // Heart emojis
+        bears: ['😏', '​😘', ​'​😼', '😽', ​'😻', '​🌟']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Will you be my Valentine <3", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No (just know if you click this i explode 💥💥💥)"                                                 // Text for "No" button
+            noBtn: "No (if you click this i explode 💥💥💥)"                                                 // Text for "No" button
         }
     },
 
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm so happy!! So lucky to be with you <3",
-        message: "Hi my love, thank you for being an amazing human and I hope to spend many more cheesy Valentine's Days with you. From your love, Madi",
-        emojis: "❤️‍🔥​😏​😘​😽​😼​😻​🌟​💘"  // These will bounce around
+        title: "Hi my love, thank you for being an amazing human and I hope to spend many more cheesy Valentine's Days with you. From your love, Madi",
+        message: "Yay! I'm so happy!! So lucky to be with you <3",
+        emojis: "😏​😘​​😼😽​😻​🌟"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "hthttps://res.cloudinary.com/dl7gknlx5/video/upload/v1770504559/keshi_-_Soft_Spot__Official_Music_Video__128k_zjjrlx.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dl7gknlx5/video/upload/v1770504559/keshi_-_Soft_Spot__Official_Music_Video__128k_zjjrlx.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
