@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 😼​🚀💘",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀",              // Shows when they go past 1000%
-        normal: "And beyond!"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love me that much?? (good good.. this was a test and you pass) 😼​🚀💘",  // Shows when they go past 5000%
+        high: "Gigasouraous amounts of love! 🚀",              // Shows when they go past 1000%
+        normal: "So much love!"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
@@ -57,9 +57,9 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#8E1616",      // Gradient start (try pastel colors for a soft look)
+        backgroundStart: "#A91D3A",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#D84040",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#A91D3A",     // Button color (should stand out against the background)
+        buttonBackground: "#8E1616",     // Button color (should stand out against the background)
         buttonHover: "#C73659",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#1D1616"             // Text color (make sure it's readable!)
     },
@@ -67,10 +67,10 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "12s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: 1.3         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
