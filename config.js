@@ -51,17 +51,17 @@ const CONFIG = {
     celebration: {
         title: "Hi my love, thank you for being an amazing human and I hope to spend many more cheesy Valentine's Days with you. From your love, Madi",
         message: "Yay! I'm so happy!! So lucky to be with you <3",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "😏​😘​​😼😽​😻​🌟"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#8E1616",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#D84040",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#A91D3A",     // Button color (should stand out against the background)
+        buttonHover: "#C73659",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#1D1616"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
