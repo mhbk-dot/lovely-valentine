@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['💞', '💘​', '❤️‍🔥'],  // Heart emojis
-        bears: ['😏', '​😘', ​'​😼', '😽', ​'😻', '​🌟']                       // Cute bear emojis
+        emojis: ['😏', '​😘', ​'​😼', '😽', ​'😻', '​🌟']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine <3", // The big question!
+            text: "Will you be my Valentine?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No (if you click this i explode 💥💥💥)"                                                 // Text for "No" button
         }
