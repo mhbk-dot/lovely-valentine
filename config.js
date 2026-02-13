@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['💞', '💘​', '❤️‍🔥', '💝', '💟​'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? (good good.. this was a test and you pass) 😼​🚀💘",  // Shows when they go past 5000%
-        high: "Gigasouraous amounts of love! 🚀",              // Shows when they go past 1000%
+        extreme: "WOOOOW You love me that much?? (good good.. ) 😼​🚀💘",  // Shows when they go past 5000%
+        high: "To the moon and back! 🚀",              // Shows when they go past 1000%
         normal: "So much love!"                           // Shows when they go past 100%
     },
 
